@@ -1,0 +1,47 @@
+.heading1{
+    background-color:rgb(185, 4, 25);
+    color: whitesmoke;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 1% 8%;
+}
+
+.navbar1 a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.navbar1 a:hover{
+    color:rgb(126, 126, 126);
+}
+
+.navbar1{
+    background-color:rgb(185, 4, 25);
+    color: white;
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6em;
+    padding-left: 8%;
+    margin-top: 1px;
+    
+}
+
+.mainheading{
+    color: rgb(59, 59, 59);
+    font-size: 45px;
+    padding: 1% 40% 0% 8%;
+    text-align: auto;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 1%;
+    font-weight: bold;
+}
+
+.subheading{
+    color: rgb(87, 87, 87);
+    font-size: 25px;
+    padding: 0% 40% 0% 8%;
+    text-align: auto;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 1%;
+    font-style: italic;
+}
