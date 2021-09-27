@@ -1,3 +1,11 @@
+article{
+    margin: 0% 40% 0% 8%;
+    line-height: 1.5em;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(59, 59, 59);
+}
+
 .heading1{
     background-color:rgb(185, 4, 25);
     color: whitesmoke;
@@ -8,40 +16,116 @@
 
 .navbar1 a{
     text-decoration: none;
-    color: whitesmoke;
+    color: rgb(92, 92, 92);
 }
 
 .navbar1 a:hover{
-    color:rgb(126, 126, 126);
+    color:rgb(185, 4, 25);
 }
 
 .navbar1{
-    background-color:rgb(185, 4, 25);
-    color: white;
+    background-color:rgb(236, 236, 236);
+    color: rgb(92, 92, 92);
     font-size: 19px;
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.6em;
-    padding-left: 8%;
-    margin-top: 1px;
+    padding: 0% 8%;
+    margin-top: 1%;
+    margin-bottom: 2%;
     
 }
 
 .mainheading{
     color: rgb(59, 59, 59);
     font-size: 45px;
-    padding: 1% 40% 0% 8%;
     text-align: auto;
     font-family: 'Times New Roman', Times, serif;
     margin-bottom: 1%;
+    margin-top: 2%;
     font-weight: bold;
+    line-height: 1em;
 }
 
 .subheading{
     color: rgb(87, 87, 87);
     font-size: 25px;
-    padding: 0% 40% 0% 8%;
     text-align: auto;
     font-family: 'Times New Roman', Times, serif;
-    margin-bottom: 1%;
+    margin-bottom: 3%;
     font-style: italic;
+}
+
+
+.bernstein{
+    text-decoration: underline;
+    color: rgb(59, 59, 59);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+}
+
+.bernstein:hover{
+    color: rgb(185, 4, 25);
+}
+
+.caption{
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    margin-top: 2%;
+}
+
+time{
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    font-style: italic;;
+}
+
+
+.figcaptions{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: grey;
+}
+
+.text{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.pics{
+    width: 100%;
+}
+
+.more{
+    margin-left: 8%;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 2em;
+    font-weight: bold;
+}
+
+.more a{
+    text-decoration: underline;
+    color: rgb(92, 92, 92);
+}
+
+.more a:hover{
+    color:rgb(185, 4, 25);
+}
+
+.line{
+    margin-left: 8%;
+    margin-right: 40%;
+}
+
+.goto{
+    text-decoration: underline;
+    color: rgb(59, 59, 59);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-left: 8%;
+    margin-top: 2%;
+}
+
+.goto:hover{
+    color: rgb(185, 4, 25);
 }

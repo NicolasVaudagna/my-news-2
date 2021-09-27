@@ -45,13 +45,12 @@
 }
 
 .mainheading{
-    background-color:rgb(236, 236, 236);
     color: rgb(59, 59, 59);
     font-size: 45px;
     padding: 1% 40% 0% 8%;
     text-align: auto;
     font-family: 'Times New Roman', Times, serif;
-    margin-bottom: 1%;
+    margin-bottom: 2%;
     font-weight: bold;
 }
 
@@ -179,4 +178,17 @@ h3{
 
 .more a:hover{
     color:rgb(185, 4, 25);
+}
+
+.goto{
+    text-decoration: underline;
+    color: rgb(59, 59, 59);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-left: 8%;
+    margin-top: 2%;
+}
+
+.goto:hover{
+    color: rgb(185, 4, 25);
 }
